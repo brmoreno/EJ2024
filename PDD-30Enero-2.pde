@@ -64,7 +64,7 @@ class Particula {
       for (int j = y_-ra_<0? 0: y_-ra_; j<y_+ra_ && j<height; j++ ) {
         float dist = dist(x_, y_, i, j);
         if (dist<ra_) {
-          int pos = j*height + i;
+          int pos = j*width + i;
           color c = pixels[pos];
           float factor = map(dist, 0, ra_, 1, 0);
           int rojo = (c >> 16) & 0xFF;
