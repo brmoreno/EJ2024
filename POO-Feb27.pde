@@ -56,4 +56,26 @@ class Avatar{
 
 
 class Enemigo{
+  float x;
+  float y; 
+  float t;
+  color c;
+  int comportamiento; // 0:estático, 1: aleatorio, 2: constante
+
+
+ void display(){
+  }
+
+  void mover(){
+  }
+}
+
+class Item(){
+float x;
+float y;
+float t;
+color c;
+
+void display(){
+}
 }
