@@ -53,3 +53,7 @@ class Avatar{
   }
   
 }
+
+
+class Enemigo{
+}
