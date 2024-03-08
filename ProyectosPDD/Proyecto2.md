@@ -15,7 +15,7 @@ HCI ¿Cómo se controla y manipula la herramienta de software? Teclado, mouse, t
 
 Tarea y Audiencia ¿Para qué sirve mi herramienta? ¿Para que comunidad está diseñada?
 
-Acompaña tu presentación de bocetos y mood-boards que permitan entender el look and feel de tu producto final. Se presenta el martes 3 de Octubre en la clase. Trae tu presentación en formato pdf, en máximo 2 memorias usb para todo el grupo.
+Acompaña tu presentación de bocetos y mood-boards que permitan entender el look and feel de tu producto final. Se presenta el martes 12 de Marzo en la clase. Trae tu presentación en formato pdf, en máximo 2 memorias usb para todo el grupo.
 
 Etapa 2: Realiza un demo de tu producto final, presenta el software que produjiste, el proceso de desarrollo y los resultados finales que se pueden lograr. 
-Se entrega el Martes 10 Octubre de 2023 en la clase.
+Se entrega el Viernes 22 de Marzo de 2024 en la clase.
