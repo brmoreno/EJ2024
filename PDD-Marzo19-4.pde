@@ -56,3 +56,28 @@ void setup(){
     inicio.add(new PVector(px,py+i*0.3,pz));
   }
 }
+
+void draw(){
+  background(255);
+  lights();
+  translate(width/2,height/2);
+  rotateX(mouseX*0.01);
+  rotateZ(mouseY*0.01);
+  for(int i = 0; i<999; i++){
+    PVector a = fin.get(i);
+    PVector b = fin.get(i+1);
+    PVector c = inicio.get(i+1);
+    PVector d = inicio.get(i);
+    stroke(0);
+    fill(255,0,0);
+    beginShape();
+    vertex(a.x,a.y,a.z);
+    vertex(b.x,b.y,b.z);
+     vertex(c.x,c.y,c.z);
+    vertex(d.x,d.y,d.z);
+    
+   
+       
+    endShape();
+  }
+}
